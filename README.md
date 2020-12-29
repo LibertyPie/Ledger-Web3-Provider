@@ -1,2 +1,2 @@
-# ledger-web3-provider
+# Ledger web3 provider
 Web3 Provider for ledger hardware wallet
